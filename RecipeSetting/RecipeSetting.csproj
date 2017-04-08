@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Tuple.cs" />
     <Compile Include="UserFunction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
